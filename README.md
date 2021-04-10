@@ -1,11 +1,10 @@
-<h1> Netlify OAuth
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/netlify-labs/oauth-example">
-  <img align="right" src="https://camo.githubusercontent.com/be2eb66bb727e25655f1dcff88c2fdca82a77513/68747470733a2f2f7777772e6e65746c6966792e636f6d2f696d672f6465706c6f792f627574746f6e2e737667" class="deploy-button" alt="deploy to netlify">
-</a>
-<a href='https://app.netlify.com/sites/oauth-example/deploys'><img align="right" src='https://api.netlify.com/api/v1/badges/ff09f383-7ad2-4b9e-a14d-cc4a868f16c4/deploy-status'/></a>
-</h1>
+# Netlify OAuth
 
-Example of how to use Netlify OAuth Applications
+[![Netlify Status](https://api.netlify.com/api/v1/badges/df11b244-1c7c-40dd-85ce-8c186ec9b17a/deploy-status)](#)
+
+Netlify OAuth serverless functions based on https://github.com/netlify-labs/oauth-example
+
+[![Netlify Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Ju99ernaut/netlify-oauth-serverless)
 
 ## Use cases
 
