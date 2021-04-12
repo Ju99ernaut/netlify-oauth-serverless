@@ -9,14 +9,14 @@ async function getUser(token) {
       Authorization: `Bearer ${token}`
     }
   })
-  
+
   const data = await response.json()
 
   if (response.status === 422) {
     throw new Error(`Error ${JSON.stringify(data)}`)
   }
 
-  return data
+  return data.length ? data[0] : data;
 }
 
 module.exports = {
